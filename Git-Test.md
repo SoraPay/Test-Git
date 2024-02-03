@@ -32,3 +32,5 @@
 git branch - выводит все ветки
 
 git merge <nameBranch> - добавляет данную ветку в основную ветку. т.е. соединяет их 
+
+git branch <newNameBranch> - создает новую ветку
